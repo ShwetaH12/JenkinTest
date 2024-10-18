@@ -26,7 +26,7 @@ import Generic_Utility.Java_Utility;
 import Generic_Utility.Webdriver_Utility;
 
 public class CreateCampaignWithProductTest extends BaseClass {
-
+//test
 	@Test(groups = "smokeTest")
 	public void createCampaignWithProductTest() throws Throwable {
 
